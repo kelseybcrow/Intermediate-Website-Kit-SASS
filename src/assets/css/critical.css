@@ -78,7 +78,7 @@
     margin: 0;
     color: #fff;
     min-width: 9.375rem;
-    padding: 0 9.375rem;
+    padding: 0 1.5625rem;
     background-color: var(--primary);
     display: inline-block;
     position: relative;
@@ -268,7 +268,7 @@
     width: 90%;
     max-width: 82.5em;
     margin: auto;
-    margin-top: -10.4375em;
+    margin-top: -0.625em;
     margin-bottom: 3.125em;
     padding: 3.125em 1.25em;
     background: #fff;
